@@ -27,36 +27,25 @@ A professional-grade Point of Sale (POS) and Inventory Management system built w
 ---
 
 ## 📸 Screenshots
-| AppIcon | Splash | SignIn | SignUp |
 
+### 🔑 Authentication & Entry
+| App Icon | Splash Screen | Sign In | Sign Up |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshot/appicon.JPG" width="160"> | <img src="screenshot/splash.JPG" width="160"> | <img src="screenshot/signin.JPG" width="160"> | <img src="screenshot/signup.JPG" width="160"> |
 
-| ![AppIcon](screenshot/appicon.JPG) |  
+<br>
 
-  ![Splash](screenshot/splash.JPG) |    
-
-  ![Login](screenshot/signin.JPG) |    
-  
-  ![SignUp](screenshot/signup.JPG) |
-
+### 📊 Dashboard & Core POS
 | Dashboard | Barcode Scanner | Inventory | Sales History |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshot/dashboard.JPG" width="160"> | <img src="screenshot/scanitems.JPG" width="160"> | <img src="screenshot/inventory.JPG" width="160"> | <img src="screenshot/report.JPG" width="160"> |
 
-| ![Dashboard](screenshot/dashboard.JPG) |   
+<br>
 
-  ![Scanner](screenshot/scanitems.JPG) | 
-
-  ![Inventory](screenshot/inventory.JPG) |   
-  
-  ![Sales History](screenshot/report.JPG) |
-
-
-| Drawer | Add Inventory | Folder Structure | Product Edit |
-
-| ![Inventory](screenshot/drawer.JPG)     
-
-| ![Add Inventory ](screenshot/addinven.JPG) 
-
-| ![Add Items](screenshot/folder.png) |
-
+### ⚙️ Management & Structure
+| Drawer Menu | Add Inventory | Folder Structure |
+| :---: | :---: | :---: |
+| <img src="screenshot/drawer.JPG" width="160"> | <img src="screenshot/addinven.JPG" width="160"> | <img src="screenshot/folder.png" width="220"> |
 ---
 
 ## 🎥 Demo Video
