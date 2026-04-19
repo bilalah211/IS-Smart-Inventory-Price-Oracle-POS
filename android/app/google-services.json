@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291720696356",
+    "firebase_url": "https://fir-4f7e5-default-rtdb.firebaseio.com",
+    "project_id": "fir-4f7e5",
+    "storage_bucket": "fir-4f7e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291720696356:android:5da3e49ecddca81af03eb1",
+        "android_client_info": {
+          "package_name": "com.example.smartinevntary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291720696356-ju108aafnjlc5jl4h33otdbd4idqvrrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYps5pH1oXpwqxp9DL4Jobh3Q53P3-Cwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291720696356-ju108aafnjlc5jl4h33otdbd4idqvrrf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291720696356-h2a1fuvfbbra1gu0glk2dqvcuo0uov56.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.practicebloc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
