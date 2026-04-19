@@ -30,22 +30,32 @@ A professional-grade Point of Sale (POS) and Inventory Management system built w
 | AppIcon | Splash | SignIn | SignUp |
 
 
-| ![AppIcon](screenshot/appicon.JPG) |   ![Splash](screenshot/splash.JPG) |    
+| ![AppIcon](screenshot/appicon.JPG) |  
 
-  ![Login](screenshot/signin.JPG) |      ![SignUp](screenshot/signup.JPG) |
+  ![Splash](screenshot/splash.JPG) |    
+
+  ![Login](screenshot/signin.JPG) |    
+  
+  ![SignUp](screenshot/signup.JPG) |
 
 | Dashboard | Barcode Scanner | Inventory | Sales History |
 
-| ![Dashboard](screenshot/dashboard.JPG) |     ![Scanner](screenshot/scanitems.JPG) | 
+| ![Dashboard](screenshot/dashboard.JPG) |   
 
-  ![Inventory](screenshot/inventory.JPG) |     ![Sales History](screenshot/report.JPG) |
+  ![Scanner](screenshot/scanitems.JPG) | 
+
+  ![Inventory](screenshot/inventory.JPG) |   
+  
+  ![Sales History](screenshot/report.JPG) |
 
 
 | Drawer | Add Inventory | Folder Structure | Product Edit |
 
-| ![Inventory](screenshot/drawer.JPG) | ![Add Inventory ](screenshot/addinven.JPG) |
+| ![Inventory](screenshot/drawer.JPG)     
 
-  ![Add Items](screenshot/folder.png) |
+| ![Add Inventory ](screenshot/addinven.JPG) 
+
+| ![Add Items](screenshot/folder.png) |
 
 ---
 
