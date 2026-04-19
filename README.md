@@ -10,8 +10,8 @@ A professional-grade Point of Sale (POS) and Inventory Management system built w
 - **📈 Advanced Analytics:** Real-time generation of Daily Sales Reports, Total Revenue, and Best Selling Items.
 - **📦 Dynamic Inventory:** Full CRUD capabilities for products with real-time Firestore synchronization.
 - **⚡ High Performance:** State management handled by **BLoC** for a fast, reactive user interface.
-- **📷 Image Management:** Product images hosted and optimized via **Cloudinary**.
-- **🌐 Offline Support:** Local data persistence using **Hive** for uninterrupted scanning.
+- **📷 Image Management:** Product images hosted and optimized via **Cloudinary** will Add Later.
+- **🌐 Offline Support:** Local data persistence using **Shared Preferences** for uninterrupted scanning.
 
 ---
 
@@ -27,14 +27,18 @@ A professional-grade Point of Sale (POS) and Inventory Management system built w
 ---
 
 ## 📸 Screenshots
+| AppIcon | Splash | Login | SignUp |
 
-| Dashboard | Barcode Scanner | Sales History |
+| ![AppIcon](screenshot/appicon.JPG) | ![Splash](screenshot/splash.JPG) | ![Login](screenshot/login.JPG) | ![History](screenshot/signup.JPG) |
 
-| ![Dashboard](assets/screenshots/dashboard.png) | ![Scanner](assets/screenshots/scanner.png) | ![History](assets/screenshots/history.png) |
+| Dashboard | Barcode Scanner | Inventory | Sales History |
 
-| Inventory List | Daily Report | Product Edit |
+| ![Dashboard](screenshot/dashboard.JPG) | ![Scanner](screenshot/scanitems.JPG) | ![Inventory](screenshot/inventory.JPG) | ![Sales History](screenshot/report.JPG) |
 
-| ![Inventory](assets/screenshots/inventory.png) | ![Reports](assets/screenshots/reports.png) | ![Edit](assets/screenshots/edit.png) |
+
+| Drawer | Add Inventory | Folder Structure | Product Edit |
+
+| ![Inventory](screenshot/drawer.JPG) | ![Add Inventory ](screenshot/addinven.JPG) | ![Add Items](screenshot/folder.JPG) |
 
 ---
 
