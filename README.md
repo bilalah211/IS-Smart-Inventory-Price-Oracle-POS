@@ -54,6 +54,11 @@ A professional-grade Point of Sale (POS) and Inventory Management system built w
 
 ---
 
+## 📥 Download
+You can download the latest production APK from the [Releases Page](https://github.com/bilalah211/IS-Smart-Inventory-Price-Oracle-POS/releases/latest).
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/bilalah211/IS-Smart-Inventory-Price-Oracle-POS/releases/latest)
+
 ## 🏗️ Technical Architecture
 
 This project follows **Clean Architecture** principles to ensure the code is testable, scalable, and easy to maintain:
